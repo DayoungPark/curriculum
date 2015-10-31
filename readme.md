@@ -5,6 +5,9 @@ Resources
 2. Slack Invite - http://djangogirlsseoulslackin.herokuapp.com
 3. CodeCademy 한글 - http://codecademy.com/tracks/python-ko
 4. CodeCademy English - codecademy.com/tracks/python
+5. Programming for Everyone 한글 - http://python.xwmooc.org/
+6. Programming for Everyone English - http://www.pythonlearn.com/book.php
+7. Programming for Everyone Coursera - https://www.coursera.org/learn/python
 
 Curriculum
 ---
