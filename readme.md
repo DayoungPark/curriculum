@@ -14,3 +14,11 @@ Curriculum
 | 8 | Django pt 3 |  |  |
 | 9 | Django pt 4 |  |  |
 | 10| Project     |  |  |
+
+Resources
+---
+
+1. Slack - http://djangogirlsseoul.slack.com
+2. Slack Invite - http://djangogirlsseoulslackin.herokuapp.com
+3. CodeCademy 한글 - http://codecademy.com/tracks/python-ko
+4. CodeCademy English - codecademy.com/tracks/python
